@@ -79,8 +79,7 @@ Currently improving my problem-solving skills and exploring modern web technolog
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=Haolader91&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Haolader91&theme=tokyonight" /></p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haolader91&theme=tokyo-night" />
