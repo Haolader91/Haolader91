@@ -9,11 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I am a Junior Full Stack Developer passionate about creating modern, responsive, and user-friendly web applications.
-
-I build scalable applications using JavaScript, React, Next.js, Node.js, Express.js, and MongoDB.
-
-Currently improving my problem-solving skills and exploring modern web technologies.
+I'm a Junior Full Stack Web Developer focused on building modern, responsive and scalable web applications using React, Next.js, TypeScript, Node.js, Express.js and MongoDB. I enjoy transforming ideas into production-ready applications with clean UI, secure APIs and practical user experiences.
 
 
 ## 🚀 Current Activities
