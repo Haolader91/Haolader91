@@ -26,21 +26,21 @@ I'm a Junior Full Stack Web Developer focused on building modern, responsive and
 ### Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css" />
 </p>
 
 
 ### Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma" />
 </p>
 
 
 ### Tools & Others
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,netlify" />
 </p>
 
 
