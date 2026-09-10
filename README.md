@@ -1,4 +1,4 @@
-![Banner](https://github.com/Haolader91/Haolader91/blob/main/github-banner.png)
+![Banner](https://github.com/Haolader91/Haolader91/blob/main/github-banner2.png)
 
 <h1 align="center">Hi 👋, I'm MD. ABUL KALAM HAWLADER</h1>
 
